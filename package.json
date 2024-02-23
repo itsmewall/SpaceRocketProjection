@@ -1,0 +1,19 @@
+{
+  "name": "aeroespaceprojection",
+  "version": "1.0.0",
+  "description": "Simulate rocket launches with Cesium for kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmewall/SpaceRocketProjection.git"
+  },
+  "author": "Wallace Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmewall/SpaceRocketProjection/issues"
+  },
+  "homepage": "https://github.com/itsmewall/SpaceRocketProjection#readme",
+}
